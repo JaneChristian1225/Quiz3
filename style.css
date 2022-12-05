@@ -37,7 +37,7 @@
 }
 .mid{
     margin-top: 50px;
-    background-color: green;
+    background-color: red;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
