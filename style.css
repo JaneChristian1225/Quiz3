@@ -291,7 +291,7 @@ span{
 .modal-body{
     background-color: #1a1851;
 }
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 380px){
     
     .logo{
         margin-left: -20px;
